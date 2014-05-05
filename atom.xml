@@ -4,7 +4,7 @@
   <title><![CDATA[小豆的小店]]></title>
   <link href="http://renhongyuq.github.io/x/atom.xml" rel="self"/>
   <link href="http://renhongyuq.github.io/x/"/>
-  <updated>2014-05-05T10:14:38+02:00</updated>
+  <updated>2014-05-05T10:16:59+02:00</updated>
   <id>http://renhongyuq.github.io/x/</id>
   <author>
     <name><![CDATA[小豆]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[one]]></title>
+    <link href="http://renhongyuq.github.io/x/blog/2014/05/05/one/"/>
+    <updated>2014-05-05T10:16:50+02:00</updated>
+    <id>http://renhongyuq.github.io/x/blog/2014/05/05/one</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[蔓越莓干]]></title>
@@ -268,15 +277,6 @@
     <updated>2014-05-01T12:01:05+02:00</updated>
     <id>http://renhongyuq.github.io/x/blog/2014/05/01/idomin</id>
     <content type="html"><![CDATA[<p>全能膏～不含任何防腐剂和人工香料，从小宝宝的屁屁到起倒刺的手指到干燥的嘴角都能涂，其中的重要成分是锌和维他命E，这款也是有着一百一十年历史的Cederroth出品～20g40大洋，100g60大洋～20g的好Q萌，100g的好大一只呀！应该能用到世界尽头吧[晕]</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[B族维他命]]></title>
-    <link href="http://renhongyuq.github.io/x/blog/2014/05/01/friggsbvitamin/"/>
-    <updated>2014-05-01T12:00:55+02:00</updated>
-    <id>http://renhongyuq.github.io/x/blog/2014/05/01/friggsbvitamin</id>
-    <content type="html"><![CDATA[<p>B族维他命复合片～以下来自百度百科啦：“维生素B包括维生素B1、B2、B6、B12、烟酸、泛酸、叶酸等。B族维生素是维持人体正常机能与代谢活动不可或缺的，人体无法自行制造合成，必须额外补充。而紧张的生活、工作压力中，不当的饮食习惯，加上B族维生素本身溶于水的属性，均会使人体内的B族维生素快速被消耗。B族维生素可以帮助维持心脏、神经系统功能，维持消化系统及皮肤的健康，参与能量代谢，能增强体力、滋补强身。”Friggs是瑞典著名品牌之一呀，之前也推荐了不少她家牌子的其他东东，这个包装超级Q，像糖果盒子，120粒，每天两粒，价格非常非常可爱，只要78大洋～相当于每天一块多一丢～</p>
 ]]></content>
   </entry>
   
