@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: 巧克力 | 小豆的小店]]></title>
+  <link href="http://renhongyuq.github.io/x/blog/category/巧克力/atom.xml" rel="self"/>
+  <link href="http://renhongyuq.github.io/x/"/>
+  <updated>2014-05-05T09:33:10+02:00</updated>
+  <id>http://renhongyuq.github.io/x/</id>
+  <author>
+    <name><![CDATA[小豆]]></name>
+    <email><![CDATA[mianbaoxiaodou@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Lint 黑巧克力]]></title>
+    <link href="http://renhongyuq.github.io/x/blog/2014/05/01/lintchoco/"/>
+    <updated>2014-05-01T12:01:17+02:00</updated>
+    <id>http://renhongyuq.github.io/x/blog/2014/05/01/lintchoco</id>
+    <content type="html"><![CDATA[<p>这是黑暗料理届的巧克力嘛？海盐、辣椒、薄荷，各种口味的黑巧克力应有尽有[晕] 有重口味的小伙伴没？</p>
+]]></content>
+  </entry>
+  
+</feed>
