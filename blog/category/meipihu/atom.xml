@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Meipihu | 小豆的小店]]></title>
+  <link href="http://renhongyuq.github.io/x/blog/category/meipihu/atom.xml" rel="self"/>
+  <link href="http://renhongyuq.github.io/x/"/>
+  <updated>2014-05-05T09:08:08+02:00</updated>
+  <id>http://renhongyuq.github.io/x/</id>
+  <author>
+    <name><![CDATA[小豆]]></name>
+    <email><![CDATA[mianbaoxiaodou@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[美皮护]]></title>
+    <link href="http://renhongyuq.github.io/x/blog/2014/04/28/mepiform/"/>
+    <updated>2014-04-28T15:51:46+02:00</updated>
+    <id>http://renhongyuq.github.io/x/blog/2014/04/28/mepiform</id>
+    <content type="html"><![CDATA[<!-- more -->
+
+
+<p><img class="left" src="/images/2014/mepiform/mepiform.png" width="200" height="200"></p>
+
+<p>
+meipihu
+</p>
+
+]]></content>
+  </entry>
+  
+</feed>
