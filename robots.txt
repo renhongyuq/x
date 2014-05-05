@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://renhongyuq.github.io/x/sitemap.xml 
