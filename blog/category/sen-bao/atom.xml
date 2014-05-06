@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: 森宝 | 小豆的小店]]></title>
-  <link href="http://renhongyuq.github.io/x/blog/category/sen-bao/atom.xml" rel="self"/>
-  <link href="http://renhongyuq.github.io/x/"/>
-  <updated>2014-05-06T14:28:34+02:00</updated>
-  <id>http://renhongyuq.github.io/x/</id>
+  <link href="http://mianbaoxiaodou.com/blog/category/sen-bao/atom.xml" rel="self"/>
+  <link href="http://mianbaoxiaodou.com/"/>
+  <updated>2014-05-06T14:40:37+02:00</updated>
+  <id>http://mianbaoxiaodou.com/</id>
   <author>
     <name><![CDATA[小豆]]></name>
     <email><![CDATA[mianbaoxiaodou@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Semper成人奶粉]]></title>
-    <link href="http://renhongyuq.github.io/x/blog/2014/05/01/semperuxenmilkpowder/"/>
+    <link href="http://mianbaoxiaodou.com/blog/2014/05/01/semperuxenmilkpowder/"/>
     <updated>2014-05-01T12:04:57+02:00</updated>
-    <id>http://renhongyuq.github.io/x/blog/2014/05/01/semperuxenmilkpowder</id>
+    <id>http://mianbaoxiaodou.com/blog/2014/05/01/semperuxenmilkpowder</id>
     <content type="html"><![CDATA[<p><strong>Semper成人奶粉</strong></p>
 
 <!-- more -->
@@ -35,9 +35,9 @@
   
   <entry>
     <title type="html"><![CDATA[森宝辅食]]></title>
-    <link href="http://renhongyuq.github.io/x/blog/2014/05/01/semper-fushi/"/>
+    <link href="http://mianbaoxiaodou.com/blog/2014/05/01/semper-fushi/"/>
     <updated>2014-05-01T11:45:33+02:00</updated>
-    <id>http://renhongyuq.github.io/x/blog/2014/05/01/semper-fushi</id>
+    <id>http://mianbaoxiaodou.com/blog/2014/05/01/semper-fushi</id>
     <content type="html"><![CDATA[<p><strong>适合小盆友吃的辅食，</strong></p>
 
 <!-- more -->
