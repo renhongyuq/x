@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: 有机 | 小豆的小店]]></title>
-  <link href="http://mianbaoxiaodou.com/blog/category/you-ji/atom.xml" rel="self"/>
-  <link href="http://mianbaoxiaodou.com/"/>
-  <updated>2014-05-12T10:27:55+02:00</updated>
-  <id>http://mianbaoxiaodou.com/</id>
+  <link href="http://mianbaoxiaodou.com/blog/blog/category/you-ji/atom.xml" rel="self"/>
+  <link href="http://mianbaoxiaodou.com/blog/"/>
+  <updated>2014-05-12T10:31:42+02:00</updated>
+  <id>http://mianbaoxiaodou.com/blog/</id>
   <author>
     <name><![CDATA[小豆]]></name>
     <email><![CDATA[mianbaoxiaodou@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[玫瑰精油香皂]]></title>
-    <link href="http://mianbaoxiaodou.com/blog/2014/05/01/drorganic/"/>
+    <link href="http://mianbaoxiaodou.com/blog/blog/2014/05/01/drorganic/"/>
     <updated>2014-05-01T12:06:09+02:00</updated>
-    <id>http://mianbaoxiaodou.com/blog/2014/05/01/drorganic</id>
+    <id>http://mianbaoxiaodou.com/blog/blog/2014/05/01/drorganic</id>
     <content type="html"><![CDATA[<p><strong>Dr.Organic玫瑰精油香皂</strong>
 <img class="center" src="/images/2014/drorganic/drorganic1.png" width="200"></p>
 

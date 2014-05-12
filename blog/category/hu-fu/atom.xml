@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: 护肤 | 小豆的小店]]></title>
-  <link href="http://mianbaoxiaodou.com/blog/category/hu-fu/atom.xml" rel="self"/>
-  <link href="http://mianbaoxiaodou.com/"/>
-  <updated>2014-05-12T10:27:55+02:00</updated>
-  <id>http://mianbaoxiaodou.com/</id>
+  <link href="http://mianbaoxiaodou.com/blog/blog/category/hu-fu/atom.xml" rel="self"/>
+  <link href="http://mianbaoxiaodou.com/blog/"/>
+  <updated>2014-05-12T10:31:42+02:00</updated>
+  <id>http://mianbaoxiaodou.com/blog/</id>
   <author>
     <name><![CDATA[小豆]]></name>
     <email><![CDATA[mianbaoxiaodou@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[奥图玫瑰唇部精华]]></title>
-    <link href="http://mianbaoxiaodou.com/blog/2014/05/09/lipserum/"/>
+    <link href="http://mianbaoxiaodou.com/blog/blog/2014/05/09/lipserum/"/>
     <updated>2014-05-09T16:58:55+02:00</updated>
-    <id>http://mianbaoxiaodou.com/blog/2014/05/09/lipserum</id>
+    <id>http://mianbaoxiaodou.com/blog/blog/2014/05/09/lipserum</id>
     <content type="html"><![CDATA[<p><strong>奧图玫瑰的唇部精华，小豆最近用感觉特别好</strong>
 <img class="center" src="/images/2014/lipserum/lipserum1.png" width="200"></p>
 
@@ -34,9 +34,9 @@
   
   <entry>
     <title type="html"><![CDATA[Aco 3+3保湿面霜]]></title>
-    <link href="http://mianbaoxiaodou.com/blog/2014/05/06/aco33/"/>
+    <link href="http://mianbaoxiaodou.com/blog/blog/2014/05/06/aco33/"/>
     <updated>2014-05-06T08:04:19+02:00</updated>
-    <id>http://mianbaoxiaodou.com/blog/2014/05/06/aco33</id>
+    <id>http://mianbaoxiaodou.com/blog/blog/2014/05/06/aco33</id>
     <content type="html"><![CDATA[<p><strong>适合干皮美眉的保湿面霜，孕期也可以放心使用哦～～</strong>
 <img class="center" src="/images/2014/aco33/aco331.png" width="200"></p>
 
@@ -51,9 +51,9 @@
   
   <entry>
     <title type="html"><![CDATA[玫瑰精油香皂]]></title>
-    <link href="http://mianbaoxiaodou.com/blog/2014/05/01/drorganic/"/>
+    <link href="http://mianbaoxiaodou.com/blog/blog/2014/05/01/drorganic/"/>
     <updated>2014-05-01T12:06:09+02:00</updated>
-    <id>http://mianbaoxiaodou.com/blog/2014/05/01/drorganic</id>
+    <id>http://mianbaoxiaodou.com/blog/blog/2014/05/01/drorganic</id>
     <content type="html"><![CDATA[<p><strong>Dr.Organic玫瑰精油香皂</strong>
 <img class="center" src="/images/2014/drorganic/drorganic1.png" width="200"></p>
 
@@ -70,18 +70,18 @@
   
   <entry>
     <title type="html"><![CDATA[Estelle&Tild 系列]]></title>
-    <link href="http://mianbaoxiaodou.com/blog/2014/05/01/estelletildseries/"/>
+    <link href="http://mianbaoxiaodou.com/blog/blog/2014/05/01/estelletildseries/"/>
     <updated>2014-05-01T12:02:31+02:00</updated>
-    <id>http://mianbaoxiaodou.com/blog/2014/05/01/estelletildseries</id>
+    <id>http://mianbaoxiaodou.com/blog/blog/2014/05/01/estelletildseries</id>
     <content type="html"><![CDATA[<p>瑞典本土有机品牌Estelle&amp;Tild，是一个麻麻以自己两个女儿的名字命名的，她希望自己的女儿能用到全天然无化学成分的护肤品于是创建了这个品牌，所有系列产品均获得有机认证～最近狂长草的是奥图玫瑰抗衰老系列—号称是世界上最好的玫瑰，此系列产品有卸妆洁面二合一洗面奶，爽肤水，抗衰老精华，面油，眼霜，日霜晚霜～小豆的护肤品用的品牌很杂，从平价到中高等都有些涉及，还有点喜新厌旧，在用过全套伊索一年以后准备最近开始尝试这个品牌啦！^_^</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[男士面霜]]></title>
-    <link href="http://mianbaoxiaodou.com/blog/2014/05/01/acoman/"/>
+    <link href="http://mianbaoxiaodou.com/blog/blog/2014/05/01/acoman/"/>
     <updated>2014-05-01T12:01:39+02:00</updated>
-    <id>http://mianbaoxiaodou.com/blog/2014/05/01/acoman</id>
+    <id>http://mianbaoxiaodou.com/blog/blog/2014/05/01/acoman</id>
     <content type="html"><![CDATA[<p><strong>不含笑料，控油保湿的男士药妝面霜</strong></p>
 
 <!-- more -->
