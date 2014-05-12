@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: 眼部 | 小豆的小店]]></title>
-  <link href="http://mianbaoxiaodou.com/blog/blog/category/yan-bu/atom.xml" rel="self"/>
-  <link href="http://mianbaoxiaodou.com/blog/"/>
-  <updated>2014-05-12T10:34:16+02:00</updated>
-  <id>http://mianbaoxiaodou.com/blog/</id>
+  <link href="http://mianbaoxiaodou.com/blog/category/yan-bu/atom.xml" rel="self"/>
+  <link href="http://mianbaoxiaodou.com/"/>
+  <updated>2014-05-12T10:39:02+02:00</updated>
+  <id>http://mianbaoxiaodou.com/</id>
   <author>
     <name><![CDATA[小豆]]></name>
     <email><![CDATA[mianbaoxiaodou@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[眼药水]]></title>
-    <link href="http://mianbaoxiaodou.com/blog/blog/2014/05/01/yinxingeyedrop/"/>
+    <link href="http://mianbaoxiaodou.com/blog/2014/05/01/yinxingeyedrop/"/>
     <updated>2014-05-01T11:57:44+02:00</updated>
-    <id>http://mianbaoxiaodou.com/blog/blog/2014/05/01/yinxingeyedrop</id>
+    <id>http://mianbaoxiaodou.com/blog/2014/05/01/yinxingeyedrop</id>
     <content type="html"><![CDATA[<p>专门为戴隐形眼镜和美瞳的小伙伴们设计的眼药水，使用时不需要把隐形摘下来非常方便呀～在看电脑累了的时候滴两滴，能缓解眼睛干涩疲劳，Blink的这款眼药水含有电解质，更接近天然的眼泪～10ml的88大洋，适合打包填缝～</p>
 ]]></content>
   </entry>

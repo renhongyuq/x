@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: 巧克力 | 小豆的小店]]></title>
-  <link href="http://mianbaoxiaodou.com/blog/blog/category/qiao-ke-li/atom.xml" rel="self"/>
-  <link href="http://mianbaoxiaodou.com/blog/"/>
-  <updated>2014-05-12T10:34:16+02:00</updated>
-  <id>http://mianbaoxiaodou.com/blog/</id>
+  <link href="http://mianbaoxiaodou.com/blog/category/qiao-ke-li/atom.xml" rel="self"/>
+  <link href="http://mianbaoxiaodou.com/"/>
+  <updated>2014-05-12T10:39:02+02:00</updated>
+  <id>http://mianbaoxiaodou.com/</id>
   <author>
     <name><![CDATA[小豆]]></name>
     <email><![CDATA[mianbaoxiaodou@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Lint 黑巧克力]]></title>
-    <link href="http://mianbaoxiaodou.com/blog/blog/2014/05/01/lintchoco/"/>
+    <link href="http://mianbaoxiaodou.com/blog/2014/05/01/lintchoco/"/>
     <updated>2014-05-01T12:01:17+02:00</updated>
-    <id>http://mianbaoxiaodou.com/blog/blog/2014/05/01/lintchoco</id>
+    <id>http://mianbaoxiaodou.com/blog/2014/05/01/lintchoco</id>
     <content type="html"><![CDATA[<p>这是黑暗料理届的巧克力嘛？海盐、辣椒、薄荷，各种口味的黑巧克力应有尽有[晕] 有重口味的小伙伴没？</p>
 ]]></content>
   </entry>

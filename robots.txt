@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://mianbaoxiaodou.com/blog/sitemap.xml 
+Sitemap: http://mianbaoxiaodou.com/sitemap.xml 
