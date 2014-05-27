@@ -4,7 +4,7 @@
   <title><![CDATA[小豆的小店]]></title>
   <link href="http://mianbaoxiaodou.com/atom.xml" rel="self"/>
   <link href="http://mianbaoxiaodou.com/"/>
-  <updated>2014-05-27T12:04:32+02:00</updated>
+  <updated>2014-05-27T13:37:33+02:00</updated>
   <id>http://mianbaoxiaodou.com/</id>
   <author>
     <name><![CDATA[小豆]]></name>
@@ -52,23 +52,6 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[HTH月见草润肤乳液]]></title>
-    <link href="http://mianbaoxiaodou.com/blog/2014/05/17/hthlotion/"/>
-    <updated>2014-05-17T12:31:15+02:00</updated>
-    <id>http://mianbaoxiaodou.com/blog/2014/05/17/hthlotion</id>
-    <content type="html"><![CDATA[<p><strong>为干性及敏感肌肤设计</strong>
-<img class="center" src="http://mianbaoxiaodou.com/images/2014/hthlotion/hthlotion1.png" width="200"></p>
-
-<!-- more -->
-
-
-<hr />
-
-<p>新宠HTH月见草润肤乳液，为干性及敏感肌肤设计，含有月见草精油和维他命B5，小豆个人感觉比契尔氏黄豆那一款好用，非常好吸收，涂完不会粘粘的，缺点是个头较大占打包分量，200ml，125大洋～</p>
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[Mutewatch]]></title>
     <link href="http://mianbaoxiaodou.com/blog/2014/05/17/mutewatch/"/>
     <updated>2014-05-17T00:00:00+02:00</updated>
@@ -99,6 +82,23 @@
 
 <p>不同于普通手表，MuteWatch的腕带采用了橡胶的材料设计，舒适感极佳。Mute Watch自带了调节腕带的卡扣，根据使用者手腕的粗细，随意进行调节。并且卡扣与腕带完美结合，使用者也感受不到它的存在，并且与MuteWatch巧妙的融合在了一起。
 除了常规的要触摸屏幕看时间外，该手表还内置运动传感器，并且会根据使用者的手臂摆动习惯，自动适配点亮的方式与调节震动的强度。想看时间的时候，只需要摇晃一下手腕，就可以显示时间了，设想一下，当你的另一只手在提着东西，这个功能就显得尤为重要了。并且自动感应环境亮度，调节最佳显示的亮度。</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[HTH月见草润肤乳液]]></title>
+    <link href="http://mianbaoxiaodou.com/blog/2014/05/17/hthlotion/"/>
+    <updated>2014-05-17T00:00:00+02:00</updated>
+    <id>http://mianbaoxiaodou.com/blog/2014/05/17/hthlotion</id>
+    <content type="html"><![CDATA[<p><strong>为干性及敏感肌肤设计</strong>
+<img class="center" src="http://mianbaoxiaodou.com/images/2014/hthlotion/hthlotion1.png" width="200"></p>
+
+<!-- more -->
+
+
+<hr />
+
+<p>新宠HTH月见草润肤乳液，为干性及敏感肌肤设计，含有月见草精油和维他命B5，小豆个人感觉比契尔氏黄豆那一款好用，非常好吸收，涂完不会粘粘的，缺点是个头较大占打包分量，200ml，125大洋～</p>
 ]]></content>
   </entry>
   
@@ -210,7 +210,7 @@
   <entry>
     <title type="html"><![CDATA[儿童复合维生素咀嚼粒]]></title>
     <link href="http://mianbaoxiaodou.com/blog/2014/05/09/mittvalbarn/"/>
-    <updated>2014-05-09T20:33:08+02:00</updated>
+    <updated>2014-05-09T00:00:00+02:00</updated>
     <id>http://mianbaoxiaodou.com/blog/2014/05/09/mittvalbarn</id>
     <content type="html"><![CDATA[<p><strong>适合儿童吃的复合维生素咀嚼粒</strong>
 <img class="center" src="http://mianbaoxiaodou.com/images/2014/mittvalbarn/mittvalbarn1.png" width="200"></p>
@@ -248,7 +248,7 @@
   <entry>
     <title type="html"><![CDATA[女生专用维生素]]></title>
     <link href="http://mianbaoxiaodou.com/blog/2014/05/06/mittvalwoman/"/>
-    <updated>2014-05-06T08:02:37+02:00</updated>
+    <updated>2014-05-06T00:00:00+02:00</updated>
     <id>http://mianbaoxiaodou.com/blog/2014/05/06/mittvalwoman</id>
     <content type="html"><![CDATA[<p><strong>专门设计给女生的，适用于从青春期到育龄的所有女性～～</strong>
 <img class="center" src="http://mianbaoxiaodou.com/images/2014/mittvalwoman/mittvalwoman1.png" width="200"></p>
@@ -315,93 +315,98 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[玫瑰精油香皂]]></title>
-    <link href="http://mianbaoxiaodou.com/blog/2014/05/01/drorganic/"/>
-    <updated>2014-05-01T12:06:09+02:00</updated>
-    <id>http://mianbaoxiaodou.com/blog/2014/05/01/drorganic</id>
-    <content type="html"><![CDATA[<p><strong>Dr.Organic玫瑰精油香皂</strong>
-<img class="center" src="http://mianbaoxiaodou.com/images/2014/drorganic/drorganic1.png" width="200"></p>
+    <title type="html"><![CDATA[通鼻子喷雾]]></title>
+    <link href="http://mianbaoxiaodou.com/blog/2014/05/01/nasin/"/>
+    <updated>2014-05-01T12:01:23+02:00</updated>
+    <id>http://mianbaoxiaodou.com/blog/2014/05/01/nasin</id>
+    <content type="html"><![CDATA[<p><strong>短期治疗感冒鼻塞</strong></p>
+
+<p><img class="center" src="http://mianbaoxiaodou.com/images/2014/nasin/nasin1.png" width="100"></p>
 
 <!-- more -->
 
 
 <hr />
 
-<p><img class="right" src="http://mianbaoxiaodou.com/images/2014/drorganic/drorganic2.png"></p>
-
-<p>含有大马士革玫瑰精油，采用最好的奥图萃取方法～ 有抗衰老和修复再生皮肤的功效，成分中还含有金盏花精华，洋甘菊精华，木槿花精华、柠檬花精华、棕榈油精华、西番莲精华，维他命C等等～不含任何化学制剂如防腐剂、人工色素、人工香料等等～100g68大洋～ 小豆买来就已经迫不及待滴打开啦～能隐约看到点玫瑰的影子，那个香味淡淡的太醉人啦～感觉特别滴女人～</p>
+<p>感冒、过敏时通鼻子神器～Nasin喷雾，能在几分钟内有效缓解鼻充血，促进呼吸，使鼻子通气～特别适合短期治疗感冒鼻塞，提供成人（10岁以上）和小朋友（2到10岁）两款，小朋友的配方更加温和安全，价格分别是45和55～让感冒的季节木有那么难熬～</p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[虾青素]]></title>
-    <link href="http://mianbaoxiaodou.com/blog/2014/05/01/astaxin/"/>
-    <updated>2014-05-01T12:06:01+02:00</updated>
-    <id>http://mianbaoxiaodou.com/blog/2014/05/01/astaxin</id>
-    <content type="html"><![CDATA[<p><strong>Astaxin虾青素</strong>
-<img class="center" src="http://mianbaoxiaodou.com/images/2014/astaxin/astaxin2.png" width="200"></p>
+    <title type="html"><![CDATA[抗氧化]]></title>
+    <link href="http://mianbaoxiaodou.com/blog/2014/05/01/pn-antioxident/"/>
+    <updated>2014-05-01T11:45:53+02:00</updated>
+    <id>http://mianbaoxiaodou.com/blog/2014/05/01/pn-antioxident</id>
+    <content type="html"><![CDATA[<p><strong>抗氧化维生素复合片</strong></p>
+
+<p><img class="center" src="http://mianbaoxiaodou.com/images/2014/bioantioxidant/bioantioxidant1.png" width="200"></p>
 
 <!-- more -->
 
 
-<p><img class="center" src="http://mianbaoxiaodou.com/images/2014/astaxin/astaxin1.png"></p>
-
 <hr />
 
-<p>【瑞典生产的虾青素】是从由在瑞典小城的Gustavsberg培育的微藻雨生红球中提取滴（最天然的提取方法），这个临海小城自然环境灰常好，附地图一张～初步科学临床数据显示:虾青素是迄今自然界最强的抗氧化剂,其补充剂或有助于免疫系统、预防癌症、强力清除自由基等有重要健康支持作用。简单说来，自由基这个坏家伙，会把好的细胞变不好～雅诗兰黛等化妆品牌也会添加虾青素作为强抗氧化剂～无论买来给自己还是长辈都非常好，小豆买来孝敬粑粑麻麻滴，瑞典出产加工绝对安全放心，此款还是瑞典国家滑雪队指定品牌呀～120粒是四个月用量498大洋，平均每天4元～</p>
+<p>丹麦品牌Pharma Nord的抗氧化维生素复合片，含有增强人体免疫力和帮助细胞抵抗氧化的重要维生素和矿物质，抗氧化是轻熟年龄开始防衰老最重要的步骤之一！pharma nord是欧洲在膳食补充剂方面领先的品牌，产品均产自丹麦～</p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[牙齿美白]]></title>
-    <link href="http://mianbaoxiaodou.com/blog/2014/05/01/iwhite/"/>
-    <updated>2014-05-01T12:05:29+02:00</updated>
-    <id>http://mianbaoxiaodou.com/blog/2014/05/01/iwhite</id>
-    <content type="html"><![CDATA[<p><strong>好多盆友咨询美白牙齿的秘方～</strong>
-<img class="center" src="http://mianbaoxiaodou.com/images/2014/iwhite/iwhite1.png" width="200"></p>
+    <title type="html"><![CDATA[孕期复合维生素]]></title>
+    <link href="http://mianbaoxiaodou.com/blog/2014/05/01/mumvitamin/"/>
+    <updated>2014-05-01T11:44:02+02:00</updated>
+    <id>http://mianbaoxiaodou.com/blog/2014/05/01/mumvitamin</id>
+    <content type="html"><![CDATA[<p><strong>专门为准备怀孕、孕期及哺乳期设计的复合维生素，在这特殊的时期补充足够营养</strong>
+<img class="center" src="http://mianbaoxiaodou.com/images/2014/multivitamin/multivitamin1.png" width="200"></p>
 
 <!-- more -->
 
 
 <hr />
 
-<p>小豆在药店找到这么个好东东，临床证明92%的人使用后牙齿增白了至少三个色度，最好能增白八个色一盒含有十个于牙齿吻合的牙托，每天只需要戴20分钟，能够有效祛除牙齿污渍达到让牙齿美白健壮的目的～牙托本身非常的薄且舒适，一般来讲连续五天使用便能得到很好滴效果然后再按需要而定看看要不要再多使用一两天，还可以贴在牙齿背面美白背面的牙齿噢～一盒套装价钱是489，值得一试呀～</p>
+<p><img class="center" src="http://mianbaoxiaodou.com/images/2014/multivitamin/multivitamin2.png"></p>
+
+<hr />
+
+<p>New Nordic有一款专利技术的专门为怀孕及哺乳期女性设计的复合维生素片，含有高量的叶酸，铁，钙和维他命E。所有成份均经过精心挑选～</p>
+
+<hr />
+
+<p>身体对于吸收铁和钙的时间不一样，钙在夜间吸收最好而铁最好在吃早饭时服用，而且如果同时补充的话吸收效果不好，所以这款维生素分为早晨和晚上两种药片，每天晚饭半小时内服用亮片白色的含钙的维生素，早饭半小时内则服用沙色的含铁的维生素～ 一大盒270片，339元，每天三片差不多平均3.8元，非常划算且安全的平衡营养的补充剂～</p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[胡萝卜素]]></title>
-    <link href="http://mianbaoxiaodou.com/blog/2014/05/01/pnhuluobo/"/>
-    <updated>2014-05-01T12:05:18+02:00</updated>
-    <id>http://mianbaoxiaodou.com/blog/2014/05/01/pnhuluobo</id>
-    <content type="html"><![CDATA[<p><strong>胡萝卜素有助于补充维生素A</strong>
-<img class="center" src="http://mianbaoxiaodou.com/images/2014/biocarot/biocarot1.png" width="200"></p>
+    <title type="html"><![CDATA[维生素泡腾片]]></title>
+    <link href="http://mianbaoxiaodou.com/blog/2014/05/01/paotengpian/"/>
+    <updated>2014-05-01T11:43:35+02:00</updated>
+    <id>http://mianbaoxiaodou.com/blog/2014/05/01/paotengpian</id>
+    <content type="html"><![CDATA[<p><strong>不同口味的维生素泡腾片</strong></p>
+
+<p><img class="center" src="http://mianbaoxiaodou.com/images/2014/paotengpian/paotengpian1.png" width="200"></p>
 
 <!-- more -->
 
 
 <hr />
 
-<p>丹麦品牌Pharma Nord出产的胡萝卜素胶囊～β-胡萝卜素到身体内会转化为维生素A，是目前最安全补充维生素A的产品 （单纯补充化学合成维生素A，过量时会使人中毒）它可以维持眼睛和皮肤的健康，改善夜盲症、皮肤粗糙的状况，有抗氧化功能，有助于身体免受自由基的伤害～每天推荐服用一粒，60粒装128大洋，150粒装228大洋～对胡萝卜素感兴趣的盆友可以看看百度百科的<a href="http://wapbaike.baidu.com/view/285812.htm?adapt=1&amp;">相关链接</a>。</p>
+<p>完全不含糖的泡腾片～担心血糖的盆友也可以放心服用，一管20颗，40大洋～VC美白，夏天到了快快白起来吧:watermelon:，还能增强抵抗力，小豆每次快感冒都是靠她和大蒜精华挺住的！打包填缝的好选择，拿到手中就知道质量多好了，绝对物有所值～</p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Semper成人奶粉]]></title>
-    <link href="http://mianbaoxiaodou.com/blog/2014/05/01/semperuxenmilkpowder/"/>
-    <updated>2014-05-01T12:04:57+02:00</updated>
-    <id>http://mianbaoxiaodou.com/blog/2014/05/01/semperuxenmilkpowder</id>
-    <content type="html"><![CDATA[<p><strong>Semper成人奶粉</strong>
-<img class="center" src="http://mianbaoxiaodou.com/images/2014/vuxenmilkpowder/vuxenmilkpowder1.png" width="200"></p>
+    <title type="html"><![CDATA[氧化锌软膏]]></title>
+    <link href="http://mianbaoxiaodou.com/blog/2014/05/01/zno/"/>
+    <updated>2014-05-01T00:00:00+02:00</updated>
+    <id>http://mianbaoxiaodou.com/blog/2014/05/01/zno</id>
+    <content type="html"><![CDATA[<p><strong>宝宝用的氧化锌软膏</strong>
+<img class="center" src="http://mianbaoxiaodou.com/images/2014/zno/zno1.png" width="200"></p>
 
 <!-- more -->
 
 
-<p><img class="right" src="http://mianbaoxiaodou.com/images/2014/vuxenmilkpowder/vuxenmilkpowder2.png" width="200" height="200"></p>
-
 <hr />
 
-<p>瑞典国民奶粉品牌Semper森宝还有一款成人奶粉，可以干吃、冲奶、烘培还可以放在咖啡里或者做奶昔～小豆从小有个爱好：干吃奶粉！在奶片还没流行起来的时候就给自己琢磨出来的吃法～适合从3岁到99岁的各色小伙伴[偷笑][偷笑]，小盆友，准麻麻，学生党，爷爷奶奶叔叔阿姨and不放心国内牛奶的盆友们都可以考虑买这一款噢，一盒480g可以冲5升很值有木有，保质期到15年，方便储存想什么时候吃就打开一袋～108大洋快快订一个蓝盒子抱回家！</p>
+<p>过敏的季节总是莫名的长些奇奇怪怪的东西，翻出储存的氧化锌软膏，涂上就不痒啦希望过几天就能好，这个软膏是专门为小宝宝准备的，能防止宝贝红屁屁和其他肌肤问题，也可以用于成人，是由儿科和皮肤科医生共同研制的，第二张图后面的徽章是说此品牌是瑞典皇室的供应商～100ml75大洋，用前记得摇一摇哦～</p>
 ]]></content>
   </entry>
   
